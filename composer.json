@@ -1,0 +1,17 @@
+{
+    "name": "ousmane/random-quote",
+    "description": "this library make random quote",
+    "type": "library",
+    "authors": [
+        {
+            "name": "ousmane dia",
+            "email": "ousmanedia846@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "RandomQuote\\":"src/"
+        }
+    }
+   
+}
