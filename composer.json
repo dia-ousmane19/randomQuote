@@ -1,7 +1,9 @@
 {
     "name": "ousmane/random-quote",
     "description": "this library make random quote",
+    "license": "MIT",
     "type": "library",
+    "keywords": ["quote","quotes","random"],
     "authors": [
         {
             "name": "ousmane dia",
